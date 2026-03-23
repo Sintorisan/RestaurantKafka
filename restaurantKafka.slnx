@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj" />
+  <Project Path="Restaurant.OrderApi/Restaurant.OrderApi.csproj" />
+</Solution>

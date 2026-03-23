@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fg/4+jOzZJE=",
+  "success": true,
+  "projectFilePath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/Restaurant.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/sintori-san/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
