@@ -5,9 +5,11 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-Restaurant.KitchenWorker-711d7664-3f5c-4e89-8f98-7c9dc0082204</UserSecretsId>
+    <AllowMissingPrunePackageData>true</AllowMissingPrunePackageData>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.13.2" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.4" />
   </ItemGroup>
 

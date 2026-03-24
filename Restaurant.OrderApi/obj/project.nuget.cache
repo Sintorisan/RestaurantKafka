@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOXLJqkx1MM=",
+  "success": true,
+  "projectFilePath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/Restaurant.OrderApi.csproj",
+  "expectedPackageFiles": [
+    "/home/sintori-san/.nuget/packages/confluent.kafka/2.13.2/confluent.kafka.2.13.2.nupkg.sha512",
+    "/home/sintori-san/.nuget/packages/librdkafka.redist/2.13.2/librdkafka.redist.2.13.2.nupkg.sha512",
+    "/home/sintori-san/.nuget/packages/microsoft.aspnetcore.openapi/10.0.4/microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "/home/sintori-san/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/sintori-san/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

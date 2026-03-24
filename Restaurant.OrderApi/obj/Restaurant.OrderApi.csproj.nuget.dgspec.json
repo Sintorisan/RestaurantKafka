@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj": {}
+    "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/Restaurant.OrderApi.csproj": {}
   },
   "projects": {
     "/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/Restaurant.Contracts.csproj": {
@@ -344,14 +344,14 @@
         }
       }
     },
-    "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj": {
+    "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/Restaurant.OrderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj",
-        "projectName": "Restaurant.KitchenWorker",
-        "projectPath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj",
+        "projectUniqueName": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/Restaurant.OrderApi.csproj",
+        "projectName": "Restaurant.OrderApi",
+        "projectPath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/Restaurant.OrderApi.csproj",
         "packagesPath": "/home/sintori-san/.nuget/packages/",
-        "outputPath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/obj/",
+        "outputPath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.OrderApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sintori-san/.nuget/NuGet/NuGet.Config"
@@ -393,7 +393,7 @@
               "target": "Package",
               "version": "[2.13.2, )"
             },
-            "Microsoft.Extensions.Hosting": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.4, )"
             }
@@ -416,6 +416,9 @@
             }
           ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

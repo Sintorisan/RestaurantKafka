@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "h67b0pukfbY=",
+  "dgSpecHash": "W5uR3+nsWt4=",
   "success": true,
   "projectFilePath": "/home/sintori-san/ws/private/restaurantKafka/Restaurant.KitchenWorker/Restaurant.KitchenWorker.csproj",
   "expectedPackageFiles": [
+    "/home/sintori-san/.nuget/packages/confluent.kafka/2.13.2/confluent.kafka.2.13.2.nupkg.sha512",
+    "/home/sintori-san/.nuget/packages/librdkafka.redist/2.13.2/librdkafka.redist.2.13.2.nupkg.sha512",
     "/home/sintori-san/.nuget/packages/microsoft.extensions.configuration/10.0.4/microsoft.extensions.configuration.10.0.4.nupkg.sha512",
     "/home/sintori-san/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.4/microsoft.extensions.configuration.abstractions.10.0.4.nupkg.sha512",
     "/home/sintori-san/.nuget/packages/microsoft.extensions.configuration.binder/10.0.4/microsoft.extensions.configuration.binder.10.0.4.nupkg.sha512",
