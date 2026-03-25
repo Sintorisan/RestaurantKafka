@@ -1,0 +1,12 @@
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/bin/Debug/net10.0/Restaurant.Contracts.deps.json
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/bin/Debug/net10.0/Restaurant.Contracts.dll
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/bin/Debug/net10.0/Restaurant.Contracts.pdb
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.AssemblyInfoInputs.cache
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.AssemblyInfo.cs
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.csproj.CoreCompileInputs.cache
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.sourcelink.json
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.dll
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/refint/Restaurant.Contracts.dll
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/Restaurant.Contracts.pdb
+/home/sintori-san/ws/private/restaurantKafka/Restaurant.Contracts/obj/Debug/net10.0/ref/Restaurant.Contracts.dll
